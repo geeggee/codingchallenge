@@ -1,0 +1,73 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 1200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+    padding: 100px;
+}
+
+header{
+    text-align: center;
+    color: #00dd00;
+}
+
+#logo{
+    width: 220px;
+}
+
+nav{
+    text-align: center;
+    background-color: #00dd00;
+    padding: 10px;
+}
+
+main > section{
+    color: white;
+}
+
+.kickscooter{
+    margin-top: 30px;
+}
+
+.street{
+    padding: 4px 0 4px 0;
+}
+
+.street:before{
+    content: "\21A6"
+}
+
+.charge-bar{
+    height: 30px;
+    border-radius: 5px;
+}
+
+#charge-1{
+    background-color: rgb(255, 192, 76);
+    width: 35%;
+    margin-top: 2px;
+}
+
+#charge-2{
+    background-color: #00dd00;
+    width: 60%;
+    margin-top: 2px;
+}
+
+#charge-3{
+    background-color: red;
+    width: 15%;
+    margin-top: 2px;
+}
