@@ -1,8 +1,8 @@
 # CODING CHALLENGE
 
-Progetto realizzato per l'ammissione al Corso in Full-stack Web Development della Tech Academy Boolean.
+Project completed for admission to the Full-stack Web Development Course at Boolean Tech Academy.
 
-## Tecnologie utilizzate
+## Technologies and Libraries
 
 - HTML
 - CSS
